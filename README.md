@@ -1,2 +1,2 @@
-# Data-Analyst-Projects
-Several projects in data analysis field
+# Data-Visualization-Projects
+Several projects utilizing Data Visualization tools like Tableau, Power BI, Google Data Studio.
